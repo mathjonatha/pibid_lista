@@ -10,4 +10,4 @@ O author: **Matheus Jonatha**
 
 Para contado, manda e-mail para **mthsjonatha@gmail.com**
 
-**OBS : ** Vale salientar que não são modelos oficiais e não há qualquer ligação oficial com as instituições responsaveis, não sendo assim de responsabilidade das mesma quaisquer problemas.
+**OBS :** Vale salientar que não são modelos oficiais e não há qualquer ligação oficial com as instituições responsaveis, não sendo assim de responsabilidade das mesma quaisquer problemas.
