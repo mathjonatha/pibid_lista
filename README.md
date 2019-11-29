@@ -1,4 +1,4 @@
-# Modelos em LaTeX para o PIBID
+# Modelo em LaTeX para o PIBID
 
 Todos os arquivos não estão em versão final.
 
