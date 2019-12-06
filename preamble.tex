@@ -2,16 +2,20 @@
 \usepackage[utf8]{inputenc}
 \usepackage[brazil]{babel}
 %\usepackage[math]{anttor} % fonte um pouco mais estilizada
-\usepackage{tasks} % cria lista curta
-\usepackage{exsheets} % cria questoes
+
 \everymath{\displaystyle}
 \usepackage{import}
 %\usepackage{parskip}
-\graphicspath{{imgs/}} %informa a pasta em que as imagens estão
 
 %=========================Packages==================================%
 \usepackage{color,lscape, amsmath, hyperref, booktabs, latexsym, multicol, gensymb, lmodern, natbib, graphicx, tikz, tkz-euclide, amssymb, enumitem, fancyhdr, lipsum, siunitx, setspace}
 
+
+% configurações das questoes, bem como: pontuação e estrutura.
+
+\usepackage{tasks} % cria lista curta
+\usepackage{exsheets} % cria questoes
+\SetupExSheets[points]{name=ponto/s,number-format=\color{blue}} % define as configurações de pontuação das questões, e a cor da pontuação.
 %===========================Margins==============================%
 \usepackage[top=8mm, bottom=20mm, left=8mm, right=8mm]{geometry}
 
@@ -30,3 +34,4 @@
 \setlength\parskip{1.5ex}
 \setlength\parsep{1.5\parskip}
 %\thispagestyle{empty}%\bigskip %Rodapé na primeira pagina
+\graphicspath{{imgs/}} %informa a pasta em que as imagens estão
