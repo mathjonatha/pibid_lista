@@ -21,17 +21,28 @@
 	\begin{multicols}{2}
 	\setlength\columnseprule{1pt} % linha vertical entre as colunas
 	
-		\input{questions/q1.tex}
-		\input{questions/q2.tex}
-		\input{questions/q3.tex}
-		\input{questions/q4.tex}
-		\input{questions/q5.tex}
-		\input{questions/q6.tex}
-		\input{questions/q7.tex}
-		\input{questions/q8.tex}
-		\input{questions/q9.tex}
+	
+	    \import{questions/}{q1}
+	    \import{questions/}{q2}
+	    \import{questions/}{q3}
+	    \import{questions/}{q4}
+	    \import{questions/}{q5}
+	    \import{questions/}{q6}
+	    \import{questions/}{q7}
+	    \import{questions/}{q8}
+	    \import{questions/}{q9}
+	    
+		%\input{questions/q1.tex}
+		%\input{questions/q2.tex}
+		%\input{questions/q3.tex}
+		%\input{questions/q4.tex}
+		%\input{questions/q5.tex}
+		%\input{questions/q6.tex}
+		%\input{questions/q7.tex}
+		%\input{questions/q8.tex}
+		%\input{questions/q9.tex}
 	
 	\end{multicols}
-
-
+        
+          \import{questions/}{q7} % exemplo para mostrar que pode colocar questões fora das colunas e mesclar os estilos. Recomendado adicionar questões que incluem imagens, ao final e fora das colunas.
 \end{document}
