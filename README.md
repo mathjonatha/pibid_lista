@@ -2,7 +2,7 @@
 
 Todos os arquivos não estão em versão final.
 
-Você pode baixar, alterar e distribuir a vontade, desde que faça referência ao autor no arquivo, cite o link do [Overleaf](https://www.overleaf.com/latex/examples/pibid-modelo-lista-de-exercicios/kvywgdtkrqfn)/{Github](https://github.com/mthsjonatha/pibid_lista
+Você pode baixar, alterar e distribuir a vontade, desde que faça referência ao autor no arquivo, cite o link do [Overleaf](https://www.overleaf.com/latex/examples/pibid-modelo-lista-de-exercicios/kvywgdtkrqfn)/[Github](https://github.com/mthsjonatha/pibid_lista
 Link deste arquivo atualizado é: **https://github.com/mthsjonatha/pibid_lista**
 
 
