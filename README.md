@@ -1,4 +1,4 @@
-# Modelo em LaTeX para o PIBID - Lista de Exercícios
+# Modelo em ```tex \LaTeX{}``` para o PIBID - Lista de Exercícios
 
 Todos os arquivos não estão em versão final.
 
