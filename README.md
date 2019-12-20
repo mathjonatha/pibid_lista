@@ -1,5 +1,5 @@
 # Modelo em LaTeX para o PIBID - Lista de Exercícios
-## Versão 2.0.16.12.2019
+## Versão 2.1.20.12.2019
 Todos os arquivos não estão em versão final.
 
 Você pode baixar, alterar e distribuir a vontade, desde que faça referência ao autor no arquivo, cite o link do [Overleaf](https://www.overleaf.com/latex/examples/pibid-modelo-lista-de-exercicios/kvywgdtkrqfn) ou [Github](https://github.com/mthsjonatha/pibid_lista)
