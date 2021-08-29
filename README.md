@@ -2,7 +2,7 @@
 ## Versão 2.1.20.12.2019
 Todos os arquivos não estão em versão final.
 
-Você pode baixar, alterar e distribuir a vontade, desde que faça referência ao autor no arquivo, cite o link do [Overleaf](https://www.overleaf.com/latex/examples/pibid-modelo-lista-de-exercicios/kvywgdtkrqfn) ou [Github](https://github.com/mthsjonatha/pibid_lista)
+Você pode baixar, alterar e distribuir a vontade, desde que faça referência ao autor no arquivo, cite o link do [Overleaf](https://www.overleaf.com/latex/examples/pibid-modelo-lista-de-exercicios/kvywgdtkrqfn) ou [Github](https://github.com/mathjonatha/pibid_lista)
 
 
 > **OBS :** Vale salientar que não são modelos oficiais e não há qualquer ligação oficial com as instituições e coordenações, não sendo assim de responsabilidade das mesmas quaisquer problemas.
